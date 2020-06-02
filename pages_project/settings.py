@@ -25,7 +25,7 @@ SECRET_KEY = '_u@wg*5y8rg%$i*nu-a!v1*bpg*)*qsia*f6161&z(mtbwocvj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['fierce-beach-95497.herokuapp.com']
 
 
 # Application definition
